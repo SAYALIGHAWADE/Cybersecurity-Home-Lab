@@ -24,8 +24,6 @@ Port  Service
  22   SSH
  80   HTTP (Apache)
 
-## Screenshots
-(Add screenshots here)
 
 ## Learning Outcomes
 - Linux Administration
